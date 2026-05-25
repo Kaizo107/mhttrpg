@@ -1,2 +1,2 @@
 # mhttrpg
-Foundry game system for Monster Hunter tabletop RPG system
+A tabletop RPG adaptation of the Monster Hunter franchise
